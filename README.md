@@ -3,8 +3,6 @@
 
 - 👨‍💻 <a href="https://zoraizasif.github.io/" target="_blank" /> Portfolio </a>
 
-- 📄 <a href="https://drive.google.com/file/d/1PIxm5NTIc9dBkkZ4x4RYlUUtwMqMG3Ot/view?usp=sharing" target="_blank" /> Resume </a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
