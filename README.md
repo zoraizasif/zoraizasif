@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zoraiz Asif</h1>
 <h3 align="center">Full Stack Engineer with 3+ years of project experience using Javascript, Typescript, and C#. Currently part of an Agile Development team in a Healthcare company where my main responsibilities are to develop testable, highly scalable, and reliable applications using Angular, .Net Core, and MongoDB in a microservices environment.</h3>
 
-- 👨‍💻 <a href="https://zoraizasif.github.io/" target="_blank" /> Portfolio </a>
+<!-- - 👨‍💻 <a target="_blank" /> Portfolio </a> -->
 
 
 <h3 align="left">Connect with me:</h3>
